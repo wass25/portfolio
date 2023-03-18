@@ -9,7 +9,7 @@ import darkmode from "../components/darkmode.vue"
 			<router-link to="/"
 				class="router-link-active router-link-exact-active font-general-medium block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-indigo-600 dark:hover:text-indigo-300 sm:mx-4 mb-2 sm:py-2">Accueil
 			</router-link>
-			<router link to="/contact"
+			<router-link to="/contact"
 				class="router-link-active router-link-exact-active font-general-medium block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-indigo-600 dark:hover:text-indigo-300 sm:mx-4 mb-2 sm:py-2">Contact</router-link>
 			<router-link to="/apropos"
 				class="router-link-active router-link-exact-active font-general-medium block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-indigo-600 dark:hover:text-indigo-300 sm:mx-4 mb-2 sm:py-2">A
