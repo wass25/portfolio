@@ -30,7 +30,7 @@ import boutton from "../reusable/boutton.vue"
 
             </p>
         </div>
-        <a href="">
+        <a href="https://drive.google.com/file/d/1ZUteQCuoAoWq46e9ftTH0v4ibrZ6wO0j/view?usp=sharing">
             <boutton title="Voir le cv"
                 class="px-4 py-2.5 text-white tracking-wider bg-indigo-500 hover:bg-indigo-600 focus:ring-1 focus:ring-indigo-900 rounded-lg duration-500"
                 aria-label="Voir le cv" />
